@@ -17,6 +17,8 @@ Welcome to the Convolutional Neural Networks (CNN) Dog Breed Classifier Project!
 
 Along with exploring state-of-the-art CNN models for classification, we made important design decisions about the user experience for our app.Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Our imperfect solution nonetheless creates a fun user experience!
 
+### Please take a look at the Ipython notebook [here](https://github.com/ParthaPritamDeka/Dog-Breed-Classifier-Deep-Learning/edit/master/)
+
 ### Test accuracy of the Best model - Inception Resnet V3: 82.0574%
 
 ### Sample detection results of the Final Dog Breed Classifier using Inception Resnet V3
